@@ -12,14 +12,14 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="cs10.apps.quini.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_today_numbers"
+        android:name="cs10.apps.quini.ui.today_numbers.TodayNumbersFragment"
+        android:label="@string/menu_today_numbers"
+        tools:layout="@layout/fragment_today_numbers" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="cs10.apps.quini.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:id="@+id/nav_play_history"
+        android:name="cs10.apps.quini.ui.play_history.PlayHistoryFragment"
+        android:label="@string/menu_play_history"
         tools:layout="@layout/fragment_slideshow" />
 </navigation>

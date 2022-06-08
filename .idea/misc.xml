@@ -3,8 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/drawable/border.xml" value="0.1945" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/drawable/border_external.xml" value="0.1945" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1215" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/drawable/ic_mov2.xml" value="0.1605" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/drawable/ic_quiniela.xml" value="0.1215" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/drawable/side_nav_bar.xml" value="0.1215" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/layout/activity_drawer.xml" value="0.25" />
         <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/layout/content_day_results.xml" value="0.33" />
         <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/layout/content_drawer.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/layout/fragment_home.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/layout/fragment_slideshow.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/layout/fragment_today_numbers.xml" value="0.33" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/layout/nav_header_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/menu/activity_main_drawer.xml" value="0.67" />
+        <entry key="..\:/Users/Sergio/AndroidStudioProjects/QuiniOnline/app/src/main/res/menu/drawer.xml" value="0.18645833333333334" />
       </map>
     </option>
   </component>
